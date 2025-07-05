@@ -1,0 +1,5 @@
+gradio==3.41.2
+transformers>=4.31.0
+sentence-transformers
+Pillow
+numpy
